@@ -1,4 +1,4 @@
-# dsb-batch10
+# dsb-batch10-practice
 Data Science Bootcamp batch 10 Projects
 
 ## My Personal projects
